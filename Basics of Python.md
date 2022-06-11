@@ -2336,7 +2336,7 @@ gc.show_age()
 
 
 
-### Thanks for Watching
+### Thanks for Reading 
 
 ### Best Regards
 
